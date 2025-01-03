@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-athicha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athicha-popa-599ab72a3/)](https://www.linkedin.com/in/athicha-popa-599ab72a3/)
 [![Gmail Badge](https://img.shields.io/badge/-athichaneo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:athichaneo@gmail.com)](mailto:athichaneo@gmail.com)
 
-I'm a highly motivated recent graduate with a strong foundation in frontend development. I specialize in HTML, CSS, and JavaScript, and have hands-on experience with modern frameworks like React and Next.js. Through academic projects and an impactful internship, I’ve honed my skills in creating dynamic and responsive web applications.
+Hello, my name is Neo. I work at National Telecom and am currently developing a web application focused on speech-to-text with AI implement for summary.
 
 ---
 
